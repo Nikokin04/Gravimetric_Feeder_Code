@@ -1,5 +1,4 @@
 # Gravimetric_Feeder_Code
-⚖️ Gravimetric Dosing System with Arduino Mega
 This project contains the code for a gravimetric dosing machine built with an Arduino Mega, designed to accurately dispense materials by weight using a load cell and HX711 amplifier. The system features an intuitive Nextion touchscreen interface, a foot pedal trigger, and a motorized dosing mechanism.
 
 ⚙️ Features:
